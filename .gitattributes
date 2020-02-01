@@ -1,2 +1,4 @@
 presentation/* linguist-vendored
 desktop_app/interface/* linguist-vendored
+desktop_app/lego_pictures/* linguist-vendored
+desktop_app/configurations/* linguist-vendored
